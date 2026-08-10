@@ -16,8 +16,7 @@ A clean and interactive command-line currency converter built in Python, focusin
 ## 📊 Flowchart
 
 The architectural logic and workflow of the application:
-
-![Uploading currency converter.drawio.png…]()
+<img width="2560" height="12972" alt="currency converter drawio" src="https://github.com/user-attachments/assets/2940b0ff-c928-459c-a50a-addc7d20720b" />
 
 ---
 
